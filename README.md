@@ -6,7 +6,7 @@
     // Cargo.toml
 
     [dependencies]
-    hello_lib = "0.1.2"
+    hello_lib = "0.1.3"
 ```
 
 ```
