@@ -1,13 +1,13 @@
 [package]
 name = "hello_lib"
-version = "0.1.3"
+version = "0.1.4"
 edition = "2021"
 authors = ["Ganesh Chandrasekaran"]
-description = "Demo crate for demonstration"
-documentation = "https://docs.rs/cargo/latest/cargo/"
+description = "Demonstrate Generics Function"
+documentation = "https://docs.rs/hello_lib/latest/hello_lib/"
 readme="README.md"
 license = "MIT OR Apache-2.0"
-keywords = ["demo", "students"]
+keywords = ["demo", "generics","functions"]
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html

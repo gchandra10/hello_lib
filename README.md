@@ -6,7 +6,7 @@
     // Cargo.toml
 
     [dependencies]
-    hello_lib = "0.1.3"
+    hello_lib = "0.1.4"
 ```
 
 ```
@@ -16,6 +16,10 @@
 
     fn main() {
         println!("{}", hello("Rachel"));
+        println!("{}", hello(31);
+        println!("{}", hello(3.14);
+        println!("{}", hello(true));
+        println!("{}", hello('G'));
     }
 
 ```
